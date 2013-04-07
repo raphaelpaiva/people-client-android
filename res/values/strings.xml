@@ -6,7 +6,8 @@
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="hint_email">Email</string>
-    <string name="lbl_entrar">Entrar</string>
+    <string name="lbl_login">Entrar</string>
+    <string name="lbl_send_contacts">Enviar contatos</string>
     <string name="error_empty_email">Preencha o e-mail</string>
     <string name="title_activity_menu">Home</string>
     <string name="action_settings">Settings</string>
