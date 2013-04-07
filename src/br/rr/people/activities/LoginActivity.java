@@ -1,8 +1,9 @@
-package com.example.teste;
+package br.rr.people.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.EditText;
+import br.rr.people.R;
 
 import com.googlecode.androidannotations.annotations.Click;
 import com.googlecode.androidannotations.annotations.EActivity;
